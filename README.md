@@ -1,7 +1,7 @@
 # lambda_Authorizer_nodejs
 
 ## About the project
-This project is a script from AWS Lambda and it's function is to authorize JWT tokens (HS256) passed in a URL header
+This project is a script from AWS Lambda written in NodeJS and it's function is to authorize JWT tokens (HS256) passed in a URL header
 
 ## Usage
 This script is meant to be run in AWS lambda IDE and the following steps need to be taken to set it up properly:
